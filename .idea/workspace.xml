@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="549f574c-69af-4451-907b-ec51c51974ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RhQQiEvo0gi04lSuzx2WrCycWV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/VT-41/OsipovDV" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[-X]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.[-X]" />
+      <item itemvalue="Application.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="549f574c-69af-4451-907b-ec51c51974ee" name="Default Changelist" comment="" />
+      <created>1570116834323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570116834323</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Первая загрузка проекта для тестирования">
+      <created>1570119806662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570119806662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первая загрузка проекта для тестирования" />
+    <MESSAGE value="Готовая, но не запускаемая версия" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готовая, но не запускаемая версия" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="181" key="#Project_Structure" timestamp="1570136512624">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="556" y="181" key="#Project_Structure/0.0.1920.1038@0.0.1920.1038" timestamp="1570136512624" />
+    <state x="0" y="0" width="1081" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1570174135719">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="0" y="0" width="1081" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570174135719" />
+    <state x="710" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1570119009162">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="710" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1038@0.0.1920.1038" timestamp="1570119009162" />
+    <state x="684" y="189" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1570117442372">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="684" y="189" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570117442372" />
+    <state x="809" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1570117954583">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="809" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570117954583" />
+    <state x="645" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1570135999918">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="645" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570135999918" />
+    <state x="0" y="0" width="1920" height="1038" key="FileChooserDialogImpl" timestamp="1570173916078">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="0" y="0" width="1920" height="1038" key="FileChooserDialogImpl/0.0.1920.1038@0.0.1920.1038" timestamp="1570173916078" />
+    <state width="1874" height="337" key="GridCell.Tab.0.bottom" timestamp="1570179967858">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967858" />
+    <state width="1874" height="337" key="GridCell.Tab.0.center" timestamp="1570179967856">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.0.center/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967856" />
+    <state width="1874" height="337" key="GridCell.Tab.0.left" timestamp="1570179967854">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.0.left/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967854" />
+    <state width="1874" height="337" key="GridCell.Tab.0.right" timestamp="1570179967857">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.0.right/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967857" />
+    <state width="1874" height="337" key="GridCell.Tab.1.bottom" timestamp="1570179967863">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967863" />
+    <state width="1874" height="337" key="GridCell.Tab.1.center" timestamp="1570179967861">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.1.center/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967861" />
+    <state width="1874" height="337" key="GridCell.Tab.1.left" timestamp="1570179967859">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.1.left/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967859" />
+    <state width="1874" height="337" key="GridCell.Tab.1.right" timestamp="1570179967862">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1874" height="337" key="GridCell.Tab.1.right/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967862" />
+    <state x="838" y="30" width="1032" height="848" key="SettingsEditor" timestamp="1570173917165">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="838" y="30" width="1032" height="848" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1570173917165" />
+    <state x="556" y="254" key="Vcs.Push.Dialog.v2" timestamp="1570137519834">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="556" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1038@0.0.1920.1038" timestamp="1570137519834" />
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1570173766639">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570173766639" />
+    <state x="664" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1570136511085">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="664" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1038@0.0.1920.1038" timestamp="1570136511085" />
+    <state x="794" y="311" key="svn.repositoryBrowser" timestamp="1570119507846">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="794" y="311" key="svn.repositoryBrowser/0.0.1920.1038@0.0.1920.1038" timestamp="1570119507846" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
