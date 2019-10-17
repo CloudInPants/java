@@ -1,14 +1,14 @@
-package ru.bstu.iitus.vt41.OsipovDV;
+package ru.bstu.iitus.vt41.osipovDV;
 
 
-import ru.bstu.iitus.vt41.OsipovDV.Creators.*;
+import ru.bstu.iitus.vt41.osipovDV.creators.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class main {
+public class Main {
     public static void main (String[] args) {
         Scanner sc = new Scanner (System.in);
         Map<String, Creator> map = new HashMap<String, Creator> ();

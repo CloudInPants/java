@@ -1,8 +1,8 @@
-package ru.bstu.iitus.vt41.OsipovDV.Creators;
+package ru.bstu.iitus.vt41.osipovDV.creators;
 
-import ru.bstu.iitus.vt41.OsipovDV.Creator;
-import ru.bstu.iitus.vt41.OsipovDV.Product;
-import ru.bstu.iitus.vt41.OsipovDV.Products.Toy;
+import ru.bstu.iitus.vt41.osipovDV.Creator;
+import ru.bstu.iitus.vt41.osipovDV.Product;
+import ru.bstu.iitus.vt41.osipovDV.products.Toy;
 
 public class ToyCreator extends Creator {// класс Фабричный метод создания игрушки
 

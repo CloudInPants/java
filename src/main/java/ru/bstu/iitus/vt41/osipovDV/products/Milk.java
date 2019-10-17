@@ -1,21 +1,21 @@
-package ru.bstu.iitus.vt41.OsipovDV.Products;
+package ru.bstu.iitus.vt41.osipovDV.products;
 
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
-import ru.bstu.iitus.vt41.OsipovDV.Product;
+import ru.bstu.iitus.vt41.osipovDV.Product;
 
 import java.util.Scanner;
 
 @ToString
-@Setter
 @Getter
-public class Toy extends Product {// класс Игрушка
+@Setter
+public class Milk extends Product {
     protected int cost;
     protected String name;
 
     public void init (Scanner scanner) {
-        System.out.println ("Введите цену игрушки");
+        System.out.println ("Введите цену молочного продукта");
         cost = readInt (scanner);
         System.out.println ("Введите наименование");
         name = scanner.next ();

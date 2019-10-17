@@ -1,4 +1,4 @@
-package ru.bstu.iitus.vt41.OsipovDV;
+package ru.bstu.iitus.vt41.osipovDV;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ru.bstu.iitus.vt41.OsipovDV.Products;
+package ru.bstu.iitus.vt41.osipovDV.products;
 
 import lombok.ToString;
 
