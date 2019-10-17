@@ -2,9 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="549f574c-69af-4451-907b-ec51c51974ee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CameraCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Cheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CheeseCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Milk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MilkCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Rubik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RubikCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TVCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Techincs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TechincsCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Toy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ToyCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,34 +70,35 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../javalab" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/main" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/main/VT-41/OsipovDV" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.bstu.iitus.vt41.OsipovDV.main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bstu.iitus.vt41.OsipovDV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="java" />
@@ -131,11 +155,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Maven.[-X]" />
       <item itemvalue="Application.main" />
+      <item itemvalue="Maven.[-X]" />
+      <item itemvalue="Application.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -158,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570119806662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.1">
+      <created>1570180028093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570180028093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +210,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первая загрузка проекта для тестирования" />
     <MESSAGE value="Готовая, но не запускаемая версия" />
-    <option name="LAST_COMMIT_MESSAGE" value="Готовая, но не запускаемая версия" />
+    <MESSAGE value="1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="556" y="181" key="#Project_Structure" timestamp="1570136512624">
@@ -200,62 +234,70 @@
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
     <state x="809" y="411" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570117954583" />
-    <state x="645" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1570135999918">
+    <state x="645" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1571298622508">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="645" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570135999918" />
-    <state x="0" y="0" width="1920" height="1038" key="FileChooserDialogImpl" timestamp="1570173916078">
+    <state x="645" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1571298622508" />
+    <state x="0" y="0" width="1920" height="1038" key="FileChooserDialogImpl" timestamp="1571312723411">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="0" y="0" width="1920" height="1038" key="FileChooserDialogImpl/0.0.1920.1038@0.0.1920.1038" timestamp="1570173916078" />
-    <state width="1874" height="337" key="GridCell.Tab.0.bottom" timestamp="1570179967858">
+    <state x="0" y="0" width="1920" height="1038" key="FileChooserDialogImpl/0.0.1920.1038@0.0.1920.1038" timestamp="1571312723411" />
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom" timestamp="1571313054238">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967858" />
-    <state width="1874" height="337" key="GridCell.Tab.0.center" timestamp="1570179967856">
+    <state width="1874" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1571313054238" />
+    <state width="1874" height="273" key="GridCell.Tab.0.center" timestamp="1571313054237">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.0.center/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967856" />
-    <state width="1874" height="337" key="GridCell.Tab.0.left" timestamp="1570179967854">
+    <state width="1874" height="273" key="GridCell.Tab.0.center/0.0.1920.1038@0.0.1920.1038" timestamp="1571313054237" />
+    <state width="1874" height="273" key="GridCell.Tab.0.left" timestamp="1571313054236">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.0.left/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967854" />
-    <state width="1874" height="337" key="GridCell.Tab.0.right" timestamp="1570179967857">
+    <state width="1874" height="273" key="GridCell.Tab.0.left/0.0.1920.1038@0.0.1920.1038" timestamp="1571313054236" />
+    <state width="1874" height="273" key="GridCell.Tab.0.right" timestamp="1571313054238">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.0.right/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967857" />
-    <state width="1874" height="337" key="GridCell.Tab.1.bottom" timestamp="1570179967863">
+    <state width="1874" height="273" key="GridCell.Tab.0.right/0.0.1920.1038@0.0.1920.1038" timestamp="1571313054238" />
+    <state width="1874" height="337" key="GridCell.Tab.1.bottom" timestamp="1570202251795">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967863" />
-    <state width="1874" height="337" key="GridCell.Tab.1.center" timestamp="1570179967861">
+    <state width="1874" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1570202251795" />
+    <state width="1874" height="337" key="GridCell.Tab.1.center" timestamp="1570202251795">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.1.center/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967861" />
-    <state width="1874" height="337" key="GridCell.Tab.1.left" timestamp="1570179967859">
+    <state width="1874" height="337" key="GridCell.Tab.1.center/0.0.1920.1038@0.0.1920.1038" timestamp="1570202251795" />
+    <state width="1874" height="337" key="GridCell.Tab.1.left" timestamp="1570202251794">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.1.left/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967859" />
-    <state width="1874" height="337" key="GridCell.Tab.1.right" timestamp="1570179967862">
+    <state width="1874" height="337" key="GridCell.Tab.1.left/0.0.1920.1038@0.0.1920.1038" timestamp="1570202251794" />
+    <state width="1874" height="337" key="GridCell.Tab.1.right" timestamp="1570202251795">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state width="1874" height="337" key="GridCell.Tab.1.right/0.0.1920.1038@0.0.1920.1038" timestamp="1570179967862" />
-    <state x="838" y="30" width="1032" height="848" key="SettingsEditor" timestamp="1570173917165">
+    <state width="1874" height="337" key="GridCell.Tab.1.right/0.0.1920.1038@0.0.1920.1038" timestamp="1570202251795" />
+    <state x="838" y="30" width="1032" height="848" key="SettingsEditor" timestamp="1571312995181">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="838" y="30" width="1032" height="848" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1570173917165" />
-    <state x="556" y="254" key="Vcs.Push.Dialog.v2" timestamp="1570137519834">
+    <state x="838" y="30" width="1032" height="848" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1571312995181" />
+    <state x="556" y="254" key="Vcs.Push.Dialog.v2" timestamp="1571313029755">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="556" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1038@0.0.1920.1038" timestamp="1570137519834" />
-    <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1570173766639">
+    <state x="556" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1038@0.0.1920.1038" timestamp="1571313029755" />
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1571298187760">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="641" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1570173766639" />
+    <state x="641" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1571298187759" />
     <state x="664" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1570136511085">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
     <state x="664" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1038@0.0.1920.1038" timestamp="1570136511085" />
+    <state x="565" y="118" width="789" height="801" key="find.popup" timestamp="1571298547225">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="565" y="118" width="789" height="801" key="find.popup/0.0.1920.1038@0.0.1920.1038" timestamp="1571298547225" />
+    <state x="336" y="119" key="new project wizard" timestamp="1571298684957">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="336" y="119" key="new project wizard/0.0.1920.1038@0.0.1920.1038" timestamp="1571298684957" />
     <state x="794" y="311" key="svn.repositoryBrowser" timestamp="1570119507846">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
