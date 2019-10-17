@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="549f574c-69af-4451-907b-ec51c51974ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/VT-41/OsipovDV/java/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CameraCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Cheese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CheeseCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Creator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Milk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MilkCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Rubik.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RubikCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TVCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Techincs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TechincsCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Toy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ToyCreator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +47,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../javalab" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -191,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570180028093</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="reforge">
+      <created>1571313084190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571313084190</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +194,8 @@
     <MESSAGE value="Первая загрузка проекта для тестирования" />
     <MESSAGE value="Готовая, но не запускаемая версия" />
     <MESSAGE value="1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
+    <MESSAGE value="reforge" />
+    <option name="LAST_COMMIT_MESSAGE" value="reforge" />
   </component>
   <component name="WindowStateProjectService">
     <state x="556" y="181" key="#Project_Structure" timestamp="1570136512624">
@@ -274,14 +258,14 @@
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
     <state width="1874" height="337" key="GridCell.Tab.1.right/0.0.1920.1038@0.0.1920.1038" timestamp="1570202251795" />
-    <state x="838" y="30" width="1032" height="848" key="SettingsEditor" timestamp="1571312995181">
+    <state x="838" y="30" width="1032" height="848" key="SettingsEditor" timestamp="1571313428450">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="838" y="30" width="1032" height="848" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1571312995181" />
-    <state x="556" y="254" key="Vcs.Push.Dialog.v2" timestamp="1571313029755">
+    <state x="838" y="30" width="1032" height="848" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1571313428450" />
+    <state x="556" y="254" key="Vcs.Push.Dialog.v2" timestamp="1571313158696">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
-    <state x="556" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1038@0.0.1920.1038" timestamp="1571313029755" />
+    <state x="556" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1038@0.0.1920.1038" timestamp="1571313158696" />
     <state x="641" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1571298187760">
       <screen x="0" y="0" width="1920" height="1038" />
     </state>
