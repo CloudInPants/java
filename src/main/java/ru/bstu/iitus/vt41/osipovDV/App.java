@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Main {
+public class App {
     public static void main (String[] args) {
         Scanner sc = new Scanner (System.in);
         Map<String, Creator> map = new HashMap<String, Creator> ();
@@ -29,10 +29,10 @@ public class Main {
             tmp = sc.next ();
             if (map.containsKey (tmp)) {
                 productList.add (0, map.get (tmp).factoryMethod ());
+                productList.get (0).init (sc);
             } else {
                 System.out.println ("Нет такого товара");
             }
-            productList.get (0).init (sc);
         }
         sc.close ();
         if(productList.size ()==0) return;
@@ -46,4 +46,5 @@ public class Main {
         }
         System.out.println ("Самый дешёвый товар\n" + productList.get (indexMin).toString ());
     }
+
 }
