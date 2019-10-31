@@ -4,19 +4,20 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import ru.bstu.iitus.vt41.osipovDV.Product;
+import ru.bstu.iitus.vt41.osipovDV.Utilities;
 
 import java.util.Scanner;
 
 @ToString
 @Getter
 @Setter
-public class Techincs extends Product {
+public class Technics extends Product {
     protected int cost;
     protected String name;
 
     public void init (Scanner scanner) {
         System.out.println ("Введите цену техники");
-        cost = readInt (scanner);
+        cost = Utilities.readInt (scanner);
         System.out.println ("Введите наименование");
         name = scanner.nextLine ();
     }

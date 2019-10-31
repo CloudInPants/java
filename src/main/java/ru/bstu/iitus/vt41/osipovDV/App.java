@@ -1,41 +1,45 @@
 package ru.bstu.iitus.vt41.osipovDV;
 
 
-import ru.bstu.iitus.vt41.osipovDV.creators.*;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.Scanner;
 
+
 public class App {
+
+    static final Logger mainDebugLogger = LogManager.getLogger ("ru.bstu.iitus.vt41.osipovDV.mainDebug");
+    static final Logger exepLogger = LogManager.getLogger ("ru.bstu.iitus.vt41.osipovDV.mainExep");
+
     public static void main (String[] args) {
         Scanner sc = new Scanner (System.in);
-        Map<String, Creator> map = new HashMap<String, Creator> ();
-        map.put ("Камера", new CameraCreator ());
-        map.put ("Сыр", new CheeseCreator ());
-        map.put ("Молочный", new MilkCreator ());
-        map.put ("Кубик-Рубика", new RubikCreator ());
-        map.put ("Техника", new TechincsCreator ());
-        map.put ("Игрушка", new ToyCreator ());
-        map.put ("Телевизор", new TVCreator ());
+        ProductType productType;
         int N = 0;
-        ArrayList<Product> productList = new ArrayList<Product> ();
-        String tmp;
+        LinkedList<Product> productList = new LinkedList<Product> ();
+        String tmp = "";
+        if (mainDebugLogger.isDebugEnabled ()) {
+            mainDebugLogger.debug ("Welcome to debug");
+        }
         System.out.println ("Введите число товаров:");
-        N = Product.readInt (sc);
+        N = Utilities.readInt (sc);
+        System.out.println ("Товары: " + Arrays.toString (ProductType.values ()));
         for (int i = 0; i < N; i++) {
-            System.out.println ("Введите вид или наименование товара");
+            System.out.print ("Введите наименование товара\n");
             tmp = sc.next ();
-            if (map.containsKey (tmp)) {
-                productList.add (0, map.get (tmp).factoryMethod ());
+            try {
+                productType = ProductType.valueOf (tmp);
+                productList.add (0, productType.factoryMethod ());
                 productList.get (0).init (sc);
-            } else {
-                System.out.println ("Нет такого товара");
+            } catch (RuntimeException e) {
+                System.out.print ("Нет такого товара\n");
+                exepLogger.error ("Нет товара с названием: " + tmp);
             }
         }
         sc.close ();
-        if(productList.size ()==0) return;
+        if (productList.size () == 0) return;
         int indexMin = 0;
         int min = productList.get (0).getCost ();
         for (int i = 1; i < productList.size (); i++) {

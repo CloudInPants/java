@@ -1,6 +1,7 @@
 package ru.bstu.iitus.vt41.osipovDV.products;
 
 import lombok.ToString;
+import ru.bstu.iitus.vt41.osipovDV.Utilities;
 
 import java.util.Scanner;
 
@@ -10,9 +11,9 @@ public class Rubik extends Toy {// Класс Кубик-Рубик
 
     public void init (Scanner scanner) {
         System.out.println ("Введите цену Кубика-Рубика");
-        cost = readInt (scanner);
+        cost = Utilities.readInt (scanner);
         System.out.println ("Введите размерность");
-        dim = readInt (scanner);
+        dim = Utilities.readInt (scanner);
         name = "Кубик-Рубика";
     }
 

@@ -1,18 +1,19 @@
 package ru.bstu.iitus.vt41.osipovDV.products;
 
 import lombok.ToString;
+import ru.bstu.iitus.vt41.osipovDV.Utilities;
 
 import java.util.Scanner;
 
 @ToString(callSuper = true)
-public class Camera extends Techincs {
+public class Camera extends Technics {
     private int res;
 
     public void init (Scanner scanner) {
         System.out.println ("Введите цену камеры");
-        cost = readInt (scanner);
+        cost = Utilities.readInt (scanner);
         System.out.println ("Введите разрешение камеры");
-        res = readInt (scanner);
-        name="Камера";
+        res = Utilities.readInt (scanner);
+        name = "Камера";
     }
 }

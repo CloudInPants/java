@@ -4,6 +4,7 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 import ru.bstu.iitus.vt41.osipovDV.Product;
+import ru.bstu.iitus.vt41.osipovDV.Utilities;
 
 import java.util.Scanner;
 
@@ -16,7 +17,7 @@ public class Toy extends Product {// класс Игрушка
 
     public void init (Scanner scanner) {
         System.out.println ("Введите цену игрушки");
-        cost = readInt (scanner);
+        cost = Utilities.readInt (scanner);
         System.out.println ("Введите наименование");
         name = scanner.next ();
     }
